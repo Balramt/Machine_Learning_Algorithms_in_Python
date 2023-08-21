@@ -4,8 +4,11 @@ Welcome to the Machine Learning Algorithms repository! This repository houses Py
 
 Algorithms Included
 Principal Component Analysis (PCA): Explore dimensionality reduction techniques using PCA.
+
 K-means Clustering: Understand unsupervised clustering with the K-means algorithm.
+
 Agglomerative Hierarchical Clustering (AHC): Dive into hierarchical clustering methods.
+
 K-nearest Neighbors (KNN): Learn about instance-based classification using KNN.
 
 
